@@ -8,7 +8,7 @@ if(i%3==0)
 continue;
 printf("%d\n",i);
 
-if(i==10);
+if(i==10)
 break;
 
 
