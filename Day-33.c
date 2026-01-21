@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main(){
 
-int i;
+// For loop break and continue revise
+
 for(int i = 1;i<20;i++){
 
 if(i%3==0)
